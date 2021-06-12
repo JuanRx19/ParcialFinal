@@ -1,1 +1,6 @@
 # ParcialFinal
+
+##### El problema se da en las cafeterias de la universidad Javeriana Cali, ellas estan dando unos descuentos a los estudiantes y profesores para recuperarse un poco del tiempo de cuarentena que no estuvieron laborando, a los profesores les están dando un 20% de descuento y a los estudiantes un 50%. Así que ellas les pidieron ayuda a los estudiantes de Ingeniería de Sistemas de la Universidad que les ayudaran con un programa donde los estudiantes y profesores puedan hacer su propio check-out de la cafeteria sin la ayuda del personal de las cafeterias. Lo primero que el programa debe preguntarle al usuario es la cedula y el rol de él, es decir si es profesor o estudiante, seguidamente se le preguntaran datos sobre el o los productos que ellos desean llevar, entonces se les preguntaría primero por el codigo del producto, luego la cantidad de unidades que llevan de este producto, despúes por el precio y al final se le pregunta si desea lleávar más productos o no.
+
+##### Nosotros para darle solución al problema decidimos usar el lenguaje de Phyton y usamos como editor Visual Studio Code. Nuestro programa mediante varias entradas de texto y numeros le pedi paulatinamente la información que se necesita del usuario y los productos, este es el orden y lo que se pide en estas entradas:
+
