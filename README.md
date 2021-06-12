@@ -4,3 +4,9 @@
 
 ##### Nosotros para darle solución al problema decidimos usar el lenguaje de Phyton y usamos como editor Visual Studio Code. Nuestro programa mediante varias entradas de texto y numeros le pedi paulatinamente la información que se necesita del usuario y los productos, este es el orden y lo que se pide en estas entradas:
 
+* Datos del usuario
+ 1. Cedula (solo se deben ingresar los numerós en caso de que sea una cedula de extranjería)
+ 2. Rol: se le pedi al usuarío que escoja entre 1 o 2, donde 1 es profesor y 2 es estudiante.
+* Datos de los productos que el usuario desea llevar
+ 1. 
+
