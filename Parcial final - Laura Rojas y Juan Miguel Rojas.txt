@@ -1,5 +1,4 @@
-1. ¿Que tipo de errores se presentaron o se pueden presentar con su implementación al
-problema?
+1. ¿Que tipo de errores se presentaron o se pueden presentar con su implementación al problema?
 Al momento de desarrollar el programa tuvimos pocos problemas, debido a que estamos en una clase de programación donde continuamente estamos practicando. Uno de los errores que encontramos fue lógico, este consistía en que en las lineas donde se realizaban los descuentos a los profesores y estudiantes, estábamos encontrando el descuento y no el valor final menos el descuento. Otro error que percibimos que se podía llegar a presentar es que él usuario tuviera un error de teclado, donde digite una opción que no este y por ende no funcione correctamente el programa. 
 
 2. Qué estrategias podría usar para solucionar estos errores?
