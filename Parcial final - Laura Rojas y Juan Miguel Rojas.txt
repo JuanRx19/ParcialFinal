@@ -1,0 +1,7 @@
+1. ¿Que tipo de errores se presentaron o se pueden presentar con su implementación al
+problema?
+Al momento de desarrollar el programa no tuvimos ningun problema, debido a que tenemos continuas practicas con ejercicios de
+programación. Tuvimos un error con respecto a el porcentaje de descuento, pero se soluciona, ya que era un error logico.
+
+2. Que estrategias podría usar para solucionar estos errores?
+Con estrategias de depuración, en este caso el debug para hacer un pasó a pasó
