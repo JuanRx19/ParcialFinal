@@ -16,4 +16,6 @@
 
 #### Las salidas de nuestro programa consiste en varias líneas, la primera le informa al usuario si es profesor o usuario y el número de la cédula, seguidamente se imprimen tres líneas donde se menciona el código, el nombre y la cantidad del primer o el único producto que se registró, si se lleva más de un producto se vuelve a repetir estas tres últimas líneas, de lo contrario o cuando se termine de imprimir todos los productos se visualizara el total a pagar por él o los productos.
 
+#### Para calcular el total a pagar lo que hicimos nosotros fue mediante el programa y los datos de entrada, cogimos los datos del precio del producto y la cantidad que el usuario está llevando de cada producto y los multiplicamos, luego en caso de que el usuario este llevando más productos se hace lo mismo y por medio de una variable vamos sumando el dato nuevo con el producto anterior. Por último, de acuerdo al rol del usuario se le resta al total un 50% o 20%.
 
+#### El programa que nosotros desarrollamos y que le da solución a este problema está en el archivo Parcial final - Laura Rojas y Juan Miguel Rojas.py, y en el archivo Parcial final - Laura Rojas y Juan Miguel Rojas.txt describimos algunos de los problemas que tuvimos en el desarrollo de este programa y la solución que le dimos a estos. 
