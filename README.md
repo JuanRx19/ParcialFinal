@@ -18,4 +18,4 @@
 
 #### Para calcular el total a pagar lo que hicimos nosotros fue mediante el programa y los datos de entrada, cogimos los datos del precio del producto y la cantidad que el usuario está llevando de cada producto y los multiplicamos, luego en caso de que el usuario este llevando más productos se hace lo mismo y por medio de una variable vamos sumando el dato nuevo con el producto anterior. Por último, de acuerdo al rol del usuario se le resta al total un 50% o 20%.
 
-#### El programa que nosotros desarrollamos y que le da solución a este problema está en el archivo Parcial final - Laura Rojas y Juan Miguel Rojas.py, y en el archivo Parcial final - Laura Rojas y Juan Miguel Rojas.txt describimos algunos de los problemas que tuvimos en el desarrollo de este programa y la solución que le dimos a estos. 
+#### El programa que nosotros desarrollamos y que le da solución a este problema está en el archivo _Parcial final - Laura Rojas y Juan Miguel Rojas.py_, y en el archivo _Parcial final - Laura Rojas y Juan Miguel Rojas.txt_ describimos algunos de los problemas que tuvimos en el desarrollo de este programa y la solución que le dimos a estos. 
